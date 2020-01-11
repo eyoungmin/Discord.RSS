@@ -24,7 +24,7 @@
     "redis": "",
     "connection": {},
     "clean": true,
-    "articlesExpire": 0,
+    "articlesExpire": -1,
     "guildBackupsExpire": 7
   },
   "feeds": {
